@@ -13,4 +13,5 @@ for ($i = 0; $i<$n ; $i++){
     $moyenne = $moyenne / $n;
 echo ' la moyenne est de ' .$moyenne.' / 20 ';
 #close folder
+#teste pull avec close folder
 ?>
